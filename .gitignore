@@ -1,0 +1,11 @@
+# Sensitive Data
+.env
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.mp3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
